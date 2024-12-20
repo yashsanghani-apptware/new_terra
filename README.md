@@ -10,6 +10,7 @@ Terra is a cutting-edge platform that uses generative AI (GenAI) to interact dyn
    - **Multi-Modal Interaction**: Users could interact with Terra via text, voice, or even visual inputs (e.g., suggesting images, locations) to evolve the narrative and responses.
 
 
+
 ## 2. **Modern Web Patterns and UX**
    - **Conversational UI + Micro-Interactions**: Build a hybrid interface that merges conversation-driven interactions with modern web navigation patterns like cards, grids, and visually appealing layouts. Example: as users chat, the content dynamically reflows into card-based designs, creating a more engaging visual experience.
    - **Progressive Disclosure**: The design can leverage progressive disclosure to provide users with deeper content or actions only when requested during the conversation. This reduces clutter while keeping the experience lightweight and interactive.
