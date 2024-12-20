@@ -1,0 +1,33 @@
+.editor-wrapper {
+    display: flex;
+    flex-direction: column;
+    gap: 20px; // spacing between the form content and button
+    max-width: 80%;
+    #reviewOverview123 {
+        .ce-block__content {
+            max-width: 100%;
+        }
+    }
+    h5 {
+        font-weight: 600;
+        margin-top: 2em;
+        margin-bottom: 1em;
+    }
+    .ce-block__content {
+        max-width: 80%;
+    }
+
+    .ce-toolbar__content {
+        max-width: 80%;
+    }
+
+    .codex-editor__redactor {
+        padding-bottom: 50px !important;
+    }
+
+    .btn-save-next {
+        display: flex;
+        justify-content: flex-end; // aligns the button to the right
+        padding: 0 20px 20px 0; // add padding as needed
+    }
+}
