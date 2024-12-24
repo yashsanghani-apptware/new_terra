@@ -3,7 +3,6 @@
 **Core Concept**:  
 Terra is a cutting-edge platform that uses generative AI (GenAI) to interact dynamically with users through conversational interfaces. At its heart, the system relies on a WordPress CMS to manage a repository of stories, content, and user interactions. GenAI will extract and understand the narratives stored in WordPress, allowing the system to generate responses, suggest paths, and provide personalized experiences. The goal is to marry conversation-based interaction with modern web patterns for a fluid and engaging experience.
 
-
 ## 1. **Conversational Layer Powered by GenAI**
    - **Dynamic Storytelling**: The GenAI can analyze, break down, and transform the stories stored in WordPress into dynamic, interactive narratives. Users can engage with the platform through a conversational UI that adapts based on user preferences, moods, or previous interactions.
    - **Adaptive Conversations**: GenAI interprets user input, offering personalized responses and recommendations, driving the interaction like a virtual guide through both narrative and practical interactions.
