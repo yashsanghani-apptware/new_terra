@@ -11,7 +11,7 @@ export const MainNavMenuItems = [
    
   },
   {
-    title: "Invest",
+    title: "Investssss",
     icon: <Clipboard />,
     type: "link",
     path: "/offering",
